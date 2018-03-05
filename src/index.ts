@@ -1,2 +1,2 @@
-export * from './directive';
-export * from './module';
+export { ObservableFormDirective } from './observable-form.directive';
+export { ObservableFormModule } from './observable-form.module';
