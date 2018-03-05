@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":";;;;AAAA,wCAAc,aAAa,CAAC;AAC5B,qCAAc,UAAU,CAAC","sourcesContent":["export * from './directive';\nexport * from './module';\n"]}
